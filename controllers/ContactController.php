@@ -2,8 +2,8 @@
 
 class ContactController
 {
-    public function contact():void
+    public function contact(): void
     {
-        require_once 'views/contact.php';
+        require_once '../views/contact.php';
     }
 }

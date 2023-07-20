@@ -1,0 +1,15 @@
+{
+    "name": "antonela/rotas",
+    "autoload": {
+        "psr-4": {
+            "routes\\": "routes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonela",
+            "email": "antonelaipe@gmail.com"
+        }
+    ],
+    "require": {}
+}

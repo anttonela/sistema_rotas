@@ -2,8 +2,8 @@
 
 class AboutController
 {
-    public function about():void
+    public function about(): void
     {
-        require_once 'views/about.php';
+        require_once '../views/about.php';
     }
 }

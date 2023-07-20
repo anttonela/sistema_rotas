@@ -2,8 +2,8 @@
 
 class HomeController
 {
-    public function home():void
+    public function home(): void
     {
-        require_once 'views/home.php';
+        require_once '../views/home.php';
     }
 }
